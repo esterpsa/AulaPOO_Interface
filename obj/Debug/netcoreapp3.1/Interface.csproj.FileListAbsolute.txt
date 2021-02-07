@@ -9,3 +9,16 @@ C:\Users\fic\Desktop\Interface\obj\Debug\netcoreapp3.1\Interface.AssemblyInfoInp
 C:\Users\fic\Desktop\Interface\obj\Debug\netcoreapp3.1\Interface.AssemblyInfo.cs
 C:\Users\fic\Desktop\Interface\obj\Debug\netcoreapp3.1\Interface.dll
 C:\Users\fic\Desktop\Interface\obj\Debug\netcoreapp3.1\Interface.pdb
+C:\Users\ACER\Desktop\AulaPOO_Interface\obj\Debug\netcoreapp3.1\Interface.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\AulaPOO_Interface\obj\Debug\netcoreapp3.1\Interface.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\AulaPOO_Interface\obj\Debug\netcoreapp3.1\Interface.AssemblyInfo.cs
+C:\Users\ACER\Desktop\AulaPOO_Interface\obj\Debug\netcoreapp3.1\Interface.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\AulaPOO_Interface\obj\Debug\netcoreapp3.1\Interface.dll
+C:\Users\ACER\Desktop\AulaPOO_Interface\obj\Debug\netcoreapp3.1\Interface.pdb
+C:\Users\ACER\Desktop\AulaPOO_Interface\bin\Debug\netcoreapp3.1\Interface.exe
+C:\Users\ACER\Desktop\AulaPOO_Interface\bin\Debug\netcoreapp3.1\Interface.deps.json
+C:\Users\ACER\Desktop\AulaPOO_Interface\bin\Debug\netcoreapp3.1\Interface.runtimeconfig.json
+C:\Users\ACER\Desktop\AulaPOO_Interface\bin\Debug\netcoreapp3.1\Interface.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\AulaPOO_Interface\bin\Debug\netcoreapp3.1\Interface.dll
+C:\Users\ACER\Desktop\AulaPOO_Interface\bin\Debug\netcoreapp3.1\Interface.pdb
+C:\Users\ACER\Desktop\AulaPOO_Interface\obj\Debug\netcoreapp3.1\Interface.genruntimeconfig.cache
